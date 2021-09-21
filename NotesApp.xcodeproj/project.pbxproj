@@ -14,6 +14,8 @@
 		B945121426FA075400130823 /* NotesApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B945121226FA075400130823 /* NotesApp.xcdatamodeld */; };
 		B945121626FA075500130823 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B945121526FA075500130823 /* Assets.xcassets */; };
 		B945121926FA075500130823 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B945121726FA075500130823 /* LaunchScreen.storyboard */; };
+		B945122126FA0B1500130823 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B945122026FA0B1500130823 /* SecondViewController.swift */; };
+		B945122326FA0DE900130823 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B945122226FA0DE900130823 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		B945121526FA075500130823 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B945121826FA075500130823 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B945121A26FA075500130823 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B945122026FA0B1500130823 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B945122226FA0DE900130823 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				B945120B26FA075400130823 /* SceneDelegate.swift */,
 				B945120D26FA075400130823 /* ViewController.swift */,
 				B945120F26FA075400130823 /* Main.storyboard */,
+				B945122226FA0DE900130823 /* ThirdViewController.swift */,
+				B945122026FA0B1500130823 /* SecondViewController.swift */,
 				B945121526FA075500130823 /* Assets.xcassets */,
 				B945121726FA075500130823 /* LaunchScreen.storyboard */,
 				B945121A26FA075500130823 /* Info.plist */,
@@ -143,6 +149,8 @@
 				B945120E26FA075400130823 /* ViewController.swift in Sources */,
 				B945120A26FA075400130823 /* AppDelegate.swift in Sources */,
 				B945120C26FA075400130823 /* SceneDelegate.swift in Sources */,
+				B945122126FA0B1500130823 /* SecondViewController.swift in Sources */,
+				B945122326FA0DE900130823 /* ThirdViewController.swift in Sources */,
 				B945121426FA075400130823 /* NotesApp.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
