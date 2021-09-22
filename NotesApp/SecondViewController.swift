@@ -23,12 +23,11 @@ class SecondViewController: UIViewController {
         performSegue(withIdentifier: "toScreen3", sender: nil)
         
     }
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+   /* override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let nvc = segue.destination as!ThirdViewController
         nvc.incoming = textFieldOutlet.text!
     }
-    
-    
+    */
 
     /*
     // MARK: - Navigation
